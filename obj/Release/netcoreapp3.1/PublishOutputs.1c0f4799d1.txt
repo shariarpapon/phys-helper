@@ -1,0 +1,6 @@
+Q:\Misc Developments\PhysHelper\bin\program\PhysHelperCore.exe
+Q:\Misc Developments\PhysHelper\bin\program\PhysHelperCore.dll
+Q:\Misc Developments\PhysHelper\bin\program\PhysHelperCore.deps.json
+Q:\Misc Developments\PhysHelper\bin\program\PhysHelperCore.runtimeconfig.json
+Q:\Misc Developments\PhysHelper\bin\program\PhysHelperCore.pdb
+Q:\Misc Developments\PhysHelper\bin\program\org.matheval.dll

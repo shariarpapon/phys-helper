@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jr0mGgr6pNX4nKRQXv1sv+QVyaC9cR+gUvzRUbBolbCI6BkWL25YEITh5Tgfy+9VRxgCbybyrUyspU46cpn1vw==",
+  "success": true,
+  "projectFilePath": "Q:\\Misc Developments\\PhysHelper\\PhysHelperCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skpwo\\.nuget\\packages\\org.matheval\\1.0.0.2\\org.matheval.1.0.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

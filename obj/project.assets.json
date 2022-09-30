@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "org.matheval/1.0.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/org.matheval.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/org.matheval.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "org.matheval/1.0.0.2": {
+      "sha512": "BdfsFu8+p4wN89oRaZ0phYkmE6lzM4gbBq1mHX3BWLJCWGJqme9BMm/euLv8XSugrXMCHUnXZjX3n2QOqwjBpg==",
+      "type": "package",
+      "path": "org.matheval/1.0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/org.matheval.dll",
+        "lib/net40/org.matheval.dll",
+        "lib/net45/org.matheval.dll",
+        "lib/net46/org.matheval.dll",
+        "lib/net461/org.matheval.dll",
+        "lib/net462/org.matheval.dll",
+        "lib/net47/org.matheval.dll",
+        "lib/net471/org.matheval.dll",
+        "lib/net472/org.matheval.dll",
+        "lib/net48/org.matheval.dll",
+        "lib/netcoreapp2.1/org.matheval.dll",
+        "lib/netcoreapp3.1/org.matheval.dll",
+        "lib/netstandard2.0/org.matheval.dll",
+        "org.matheval.1.0.0.2.nupkg.sha512",
+        "org.matheval.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "org.matheval >= 1.0.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\skpwo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Q:\\Misc Developments\\PhysHelper\\PhysHelperCore.csproj",
+      "projectName": "PhysHelperCore",
+      "projectPath": "Q:\\Misc Developments\\PhysHelper\\PhysHelperCore.csproj",
+      "packagesPath": "C:\\Users\\skpwo\\.nuget\\packages\\",
+      "outputPath": "Q:\\Misc Developments\\PhysHelper\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\skpwo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "org.matheval": {
+            "target": "Package",
+            "version": "[1.0.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Q:\Misc Developments\PhysHelper\bin\Debug\netcoreapp3.1\PhysHelper.exe
+Q:\Misc Developments\PhysHelper\bin\Debug\netcoreapp3.1\PhysHelper.deps.json
+Q:\Misc Developments\PhysHelper\bin\Debug\netcoreapp3.1\PhysHelper.runtimeconfig.json
+Q:\Misc Developments\PhysHelper\bin\Debug\netcoreapp3.1\PhysHelper.runtimeconfig.dev.json
+Q:\Misc Developments\PhysHelper\bin\Debug\netcoreapp3.1\PhysHelper.dll
+Q:\Misc Developments\PhysHelper\bin\Debug\netcoreapp3.1\PhysHelper.pdb
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.csproj.AssemblyReference.cache
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.AssemblyInfoInputs.cache
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.AssemblyInfo.cs
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.csproj.CoreCompileInputs.cache
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.dll
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.pdb
+Q:\Misc Developments\PhysHelper\obj\Debug\netcoreapp3.1\PhysHelper.genruntimeconfig.cache
